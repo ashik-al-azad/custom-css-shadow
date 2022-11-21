@@ -1,0 +1,29 @@
+h1{
+   color: rgb(0, 255, 0);
+   text-align: center;
+   text-transform: uppercase;
+   background-image: url(web.jpg);
+   background-size: 300px;
+   background-repeat: no-repeat;
+   text-indent: 300px;
+   letter-spacing: 10px;
+}
+p{
+   text-align: justify;
+   text-transform: lowercase;
+  line-height: 20px;
+}
+a{
+   text-decoration: line-through;
+}
+.head{
+   text-decoration: overline;
+   text-transform: capitalize;
+}
+.header{
+   text-decoration: underline;
+   word-spacing: 10px;
+}
+h2{
+   text-shadow: 5px 10px 2px black;
+}
